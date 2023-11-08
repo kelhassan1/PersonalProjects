@@ -9,37 +9,18 @@
 
 *Personal Projects:*
 
-1. [A1 README.md](a1/README.md "My A1 README.md file")
-    - Install git and create Bitbucket account
-    - Install Java
-    - Install Android Studio
-    - Create First App and Contacts app
-    - Git commands w/short descriptions
-    - BitBucket repo Links
+1. [Project 1 README.md](Project1/README.md "My Project 1 README.md file")
+    - Engineered and crafted a dynamic weather forecast program, leveraging HTML and CSS to deliver an intuitve and visually appealing User Experience.
+    -Integrated Google API for real-time data retrieval, Enabling accurate and user-freindly weather predictions
 
-2. [A2 README.md](a2/README.md "My A2 README.md file")
-    - Assignemnt 2 Tip calculator populated
-    - Tip calculator unpopulated
-    - SS1-SS3
+2. [Project 2 README.md](Project2/README.md "My Project 2 README.md file")
+    - Trained mathematical models to predict stock price trends using Python libraries such as: pandas, xgboost, matplotlib, sklearn, and tensorflow
+    - Scripted the predictive stock price model with a prediction accuracy of 90%
 
-3. [A2 README.md](a3/README.md "My A3 README.md file")
-    - Assignemnt 3 Horizontal and Vertical
-    - Skillset 4
-    - Skillset 5
-    - Skillset 6
-
-4. [P1 README.md](p1/README.md "My Project 1 README.md file")
-    - Project 1 mp4 demonstration
-    - Project 1 horizontal gif
-    - Skillset 7
-    - Skillset 8
-    - Skillset 9
-
-4. [A4 README.md](a4/README.md "My A4 README.md file")
-    - Assignment 4 Horizontal and Vertical demonstration
-    - Skillset 10
-    - Skillset 11
-    - Skillset 12
+3. [Project 3 README.md](Project3/README.md "My Project 3 README.md file")
+    - Designed and implemented a Python script leveraging the Twilio API for automated morning notifications.
+    - Integrated the Google Calendar API to fetch and format my daily schedule
+    - Orchestrated seamless execution through task scheduling, ensuring timely delivery of notifications to mobile devices.
 
 
 *Course Work Links:*
