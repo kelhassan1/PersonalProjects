@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Users</string>
+
+    <!-- activity main.xml-->
+    <string name="txtAdmin">Admin Users</string>
+    <string name="txtAdd">Add:</string>
+    <string name="txtUpdate">Update:</string>
+    <string name="txtDelete">Delete:</string>
+    <string name="txtUsername">Username:</string>
+    <string name="txtPassword">Password:</string>
+    <string name="txtUpdateUserName">Current:</string>
+    <string name="txtNewUserName">New:</string>
+    <string name="btnAddUser">Add</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnViewData">View</string>
+
+    <!-- hints -->
+    <string name="hntEditName">Enter Username</string>
+    <string name="htnEditPassword">Enter Password</string>
+    <string name="hntUpdateUserName">Current Username</string>
+    <string name="htnNewUserName">New Username</string>
+    <string name="hntDelete">User to Delete</string>
+
+</resources>
